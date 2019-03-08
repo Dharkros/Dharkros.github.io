@@ -18,7 +18,7 @@ Cuando se termine de actualizar, debemos instalar los siguientes paquetes: “ru
 ```sh
 $ sudo apt-get install ruby-full build-essential zlib1g-dev
 ```
-Una vez instalados, debemos incluir unas variables en el fichero oculto .bashrc que es el fichero en el cual, cuando iniciamos sesión con el usuario se carguen las variables del mismo.
+Una vez instalados, debemos incluir unas variables en el fichero oculto **~/.bashrc**. Este fichero es el responsables que las variables del usuario se carger al iniciar sesión, por lo cual editando este fichero conseguiremos que las variables se cargen al inicio de sesión del usuario.
 
 ```sh
 $ echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
@@ -66,4 +66,4 @@ categories: jekyll update           → Categorías
 ---                                 → Cierre
 
 ```
-Información que deseeis poner, como por ejemplo, bienvenidos. 
+Información que deseéis poner, como por ejemplo, bienvenidos. 
