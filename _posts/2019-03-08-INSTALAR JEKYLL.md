@@ -1,4 +1,4 @@
-# Jekyll (GRUPO)
+# Jekyll
 
 PRACTICA REALIZADA POR :
 * **Santiago Amo Quinteros**
