@@ -16,7 +16,7 @@ $ sudo apt update
 Cuando se termine de actualizar, debemos instalar los siguientes paquetes: “ruby-full build-essential zlib1g-dev”
 
 ```sh
-$ apt-get install ruby-full build-essential zlib1g-dev
+$ sudo apt-get install ruby-full build-essential zlib1g-dev
 ```
 Una vez instalados, debemos incluir unas variables en el fichero oculto .bashrc que es el fichero en el cual, cuando iniciamos sesión con el usuario se carguen las variables del mismo.
 
