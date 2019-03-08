@@ -1,10 +1,7 @@
-# Jekyll
-
-PRACTICA REALIZADA POR :
+### PRACTICA REALIZADA POR :
 * **Santiago Amo Quinteros**
 * **Pedro Jose Marin Lerida**
 * **Alvaro Fernandez Carballo** 
-
 
 Para esta práctica hemos usado un ubuntu server 18.04.
 
@@ -70,14 +67,3 @@ categories: jekyll update           → Categorías
 
 ```
 Información que deseeis poner, como por ejemplo, bienvenidos. 
-
-
-# Enlaces de POO PHP en mi GitHub
-
- [PDO SQLITE](https://github.com/Dharkros/PDO_SQLITE)
- 
- [OBJETO PERSONA](https://github.com/Dharkros/OBJETO_PERSONA)
- 
- [OBJETO PERRO](https://github.com/Dharkros/OBJETO_PERRO)
-
-  
