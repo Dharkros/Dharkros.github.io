@@ -1,9 +1,9 @@
 # Jekyll (GRUPO)
 
 PRACTICA REALIZADA POR :
- -- **Santiago Amo Quinteros**
- -- **Pedro Jose Marin Lerida**
- -- **Alvaro Fernandez Carballo** 
+* **Santiago Amo Quinteros**
+* **Pedro Jose Marin Lerida**
+* **Alvaro Fernandez Carballo** 
 ------------------------------
 
 Para esta práctica hemos usado un ubuntu server 18.04.
