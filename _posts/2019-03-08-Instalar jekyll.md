@@ -36,6 +36,16 @@ Una vez instalada la gema, debemos generar nuestro sitio.
 ```sh
 $ jekyll sitio bundler
 ```
+Entramos en el directorio del sitio que hemos creado.
+
+```sh
+$ cd sitio
+```
+Iniciamos el servidor en local (127.0.0.1):
+
+```sh
+$ bundle exec jekyll serve
+```
 Para poder acceder desde el exterior, utilizamos el siguiente comando.
 
 *bundle exec jekyll serve --host={ip_de_nuestro_server}*
