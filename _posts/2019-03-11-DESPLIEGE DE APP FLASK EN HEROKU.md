@@ -1,4 +1,4 @@
-### Instalacion de heroku clic
+### Instalación de heroku clic
 
 Antes de empezar necesitaremos de la herramienta CURL, para instalarla, debemos de ejecutar en una terminal el siguiente comando.
 
@@ -58,7 +58,7 @@ Una vea acabado nos dirigimos a la web con la url que nos otorga heroku.
 
 [MI APP EN HEROKU](https://headline-clase.herokuapp.com/)
 
-### Bicliografia Web
+### Bibliografia Web
 
 [DOC HEROKU CLI](https://devcenter.heroku.com/articles/heroku-cli)
 [TUTORIAL APP TO HEROKU](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0)
