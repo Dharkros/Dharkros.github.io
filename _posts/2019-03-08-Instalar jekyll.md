@@ -1,8 +1,3 @@
-### PRACTICA REALIZADA POR :
-* **Santiago Amo Quinteros**
-* **Pedro Jose Marin Lerida**
-* **Alvaro Fernandez Carballo** 
-
 Para esta práctica hemos usado un ubuntu server 18.04.
 
 En primer lugar hemos añadido al fichero **/etc/apt/source.list** en la primera línea, el parámetro **universe**.
