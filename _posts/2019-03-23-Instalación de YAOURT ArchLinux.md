@@ -1,7 +1,7 @@
-# Introducción
+## Introducción
 Realizaremos una instalacion de el gesto de paquete yourt para ArchLinux el cual hace uso de los repositorio AUR (Arch User Repository).
 
-### Instalar yaourt
+## Instalación de yaourt
 
 Para empezar abriremos la terminal o consola y procederemos con los siguientes comandos:
 ```sh
