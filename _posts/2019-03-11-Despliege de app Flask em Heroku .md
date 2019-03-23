@@ -1,6 +1,5 @@
 
-### Instalación de heroku clic
-
+### Instalación de Heroku clic
 Antes de empezar necesitaremos de la herramienta CURL, para instalarla, debemos de ejecutar en una terminal el siguiente comando.
 
 ```sh
