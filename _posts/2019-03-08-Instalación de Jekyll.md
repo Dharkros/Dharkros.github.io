@@ -1,7 +1,13 @@
-## Introdución
+# TABLA DE CONTENIDO
+- [INTRODUCIÓN](#INTRODUCIÓN)
+- [INSTALACIÓN](#INSTALACIÓN)
+
+
+
+## INTRODUCIÓN
 Para esta práctica hemos usado un ubuntu server 18.04 para realizar la instalacion de **JEKYLL**.
 
-## Instalación
+## INSTALACIÓN
 
 En primer lugar hemos añadido al fichero **/etc/apt/source.list** en la primera línea, el parámetro **universe**.
 
