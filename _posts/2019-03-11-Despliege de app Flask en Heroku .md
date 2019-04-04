@@ -1,4 +1,7 @@
-
+# TABLA DE CONTENIDO
+- [Subida de proyecto al repositorio de heroku](#Subida-de-proyecto-al-repositorio-de-Heroku)
+- [Importante](#Importante)
+- [Bibliografia Web](#Bibliografia-Web)
 ### Instalación de Heroku clic
 
 Antes de empezar necesitaremos de la herramienta CURL, para instalarla, debemos de ejecutar en una terminal el siguiente comando.
@@ -16,7 +19,7 @@ Para la instalacion en ubuntu o cualquier distro basada en debian que use el ges
 $ curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
 
 ```
-### Subida de proyecto al repositorio de heroku
+### Subida de proyecto al repositorio de Heroku
 
 Una vez instalado creamos una carpeta para el proyecto, y si ya tenemos una no situamos dentro de la misma con el comando:
 
